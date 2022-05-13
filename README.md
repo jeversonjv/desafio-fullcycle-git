@@ -4,7 +4,7 @@
 
 2) escolher RSA e configurar
 
-3) **gpg —armor —export ID**
+3) **gpg —armor —export ID** (Para pegar o id, rodar o comando: **gpg --list-secret-key --keyid-form LONG** e pegar depois de rsaXXXX/)
 
 4) copiar a chave pública e colocar no github (settings → GPG keys)
 
